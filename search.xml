@@ -1,25 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>IETLS Writing Task Files(About References)</title>
-    <url>/2026/04/15/IELTS01/</url>
-    <content><![CDATA[<p>关于一项雅思写作任务的文献阅读笔记</p>
-<span id="more"></span>
-<p>要求写作的题目，1000词左右：</p>
-<p>At the present time, the population of some countries includes a relatively large number of young adults, compared with the number of older people. Do the advantages of this situation outweigh the disadvantages?</p>
-]]></content>
-      <categories>
-        <category>笔记</category>
-        <category>英语</category>
-      </categories>
-      <tags>
-        <tag>英语写作</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>晶体的弹性散射</title>
     <url>/2026/04/15/Sivia07/</url>
-    <content><![CDATA[<p>本笔记参考Sivia, D. S. (2011). Elementary scattering theory: For X-ray and neutron users.的第七章Periodicity, symmetry and crystallography.</p>
+    <content><![CDATA[<p>本笔记译自Sivia, D. S. (2011). Elementary scattering theory: For X-ray and neutron users.的第七章Periodicity, symmetry and crystallography.</p>
 <span id="more"></span>
 
 <h2 id="周期性、对称性与晶体学"><a href="#周期性、对称性与晶体学" class="headerlink" title="周期性、对称性与晶体学"></a>周期性、对称性与晶体学</h2><p>我们对弹性散射的最后一部分探讨涉及物质中最高度有序的相：晶态。这种状态产生的衍射图案具有极其尖锐且轮廓分明的结构。正因如此，它也是最早开展（X射线）散射实验的领域。</p>
@@ -284,6 +268,38 @@
       </categories>
       <tags>
         <tag>散射学</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>IETLS Writing Task Files(About References)</title>
+    <url>/2026/04/15/IELTS01/</url>
+    <content><![CDATA[<p>关于一项雅思写作任务的文献阅读笔记</p>
+<span id="more"></span>
+<p>要求写作的题目，1000词左右：</p>
+<p>At the present time, the population of some countries includes a relatively large number of young adults, compared with the number of older people. Do the advantages of this situation outweigh the disadvantages?</p>
+<p>文献1认为：</p>
+<p>Advantages:</p>
+<ol>
+<li>Youth-led programs can foster community cohesiveness and healing, according to peacebuilding theory (PBT).</li>
+</ol>
+<p>Disadvantages: </p>
+<ol>
+<li>According to the Youth Bulge Theory (YBT) ,if economic opportunities are scarce, cultures with disproportionately large youth populations are more likely to face instability<ol>
+<li>Young people become frustrated</li>
+<li>more vulnerable to being recruited by armed organizations or engaging in criminal activity</li>
+<li>labor markets are unable to accommodate this expanding workforce</li>
+</ol>
+</li>
+<li>According to conflict theory(CT), youth unemployment in Africa exacerbates economic marginalization and suffering, leading to grievances that incite youth violence.</li>
+</ol>
+<p>References:<br>[1]	Youth at the crossroads: balancing contributions to conflict and peace amid high unemployment in Africa<br>[2]	China’s demographic dividend has moved from age-based labor supply to skill-based productivity<br>[3]	Age structure and democratic development: the nonlinear and conditional role of youth bulges</p>
+]]></content>
+      <categories>
+        <category>笔记</category>
+        <category>英语</category>
+      </categories>
+      <tags>
+        <tag>英语写作</tag>
       </tags>
   </entry>
 </search>
